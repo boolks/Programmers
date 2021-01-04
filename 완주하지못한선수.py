@@ -1,4 +1,3 @@
-```
 from collections import Counter
 
 
@@ -33,5 +32,3 @@ def solution(participant, completion):
 #             pass
 #         else:
 #             return participant[i]
-```
-
